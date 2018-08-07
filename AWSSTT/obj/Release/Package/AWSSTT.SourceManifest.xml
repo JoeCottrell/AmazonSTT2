@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\inetpub\wwwroot2\RandD\AWSSTT\AWSSTT\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\inetpub\wwwroot2\RandD\AWSSTT\AWSSTT\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\inetpub\wwwroot2\RandD\AWSSTT\AWSSTT\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

@@ -1,0 +1,10 @@
+﻿
+@Scripts.Render("~/bundles/p5")
+@Scripts.Render("~/bundles/app")
+
+
+<div ng-controller="MainController">
+    <button ng-click="ClickRecord()" ng-show="!isLoading">{{buttonText}}</button>
+    <span ng-show="isLoading">Loading</span>
+    <textarea ng-model="transcription" disabled rows="10" cols="100"></textarea>
+</div>
