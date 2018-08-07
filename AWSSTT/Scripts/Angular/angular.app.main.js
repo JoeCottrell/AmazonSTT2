@@ -7,7 +7,7 @@
     $scope.recordStatus     = 0; 
     $scope.transcription    = ""; 
     $scope.isLoading        = false;
-    $scope.buttonText       = "Record"; 
+    $scope.buttonText       = "Record Updated For Git"; 
 
     $scope.ClickRecord = function() {
 
